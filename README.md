@@ -1,0 +1,1 @@
+# Bearing-capacity-prediction-of-double-shear-bolted-connection
